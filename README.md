@@ -1,6 +1,6 @@
 # Tree-implementation
  Tree implementation with c++ 
-- functions
+ + functions
 - append Node
 - delete Node
 - print In Order
